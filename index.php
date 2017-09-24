@@ -1,1 +1,1 @@
-<?php include_once("local_setup.html"); ?>
+<?php include_once("html/hw1.html"); ?>
